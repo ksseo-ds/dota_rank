@@ -1,0 +1,26 @@
+Sua chave da Web API do Steam
+Chave: 9ACA2587A8A766F543F532419B501613
+
+Nome do domínio: ksseo
+
+All API calls take the form http://api.steampowered.com/<interface name>/<method name>/v<version>/?key=<api key>&format=<format>.
+
+Format can be any of:
+
+json - The output will be returned in the JSON format
+xml - Output is returned as an XML document
+vdf - Output is returned as a VDF file.
+If you do not specify a format, your results will be returns in the JSON format.
+
+https://developer.valvesoftware.com/wiki/Steam_Web_API#JSON
+
+#OPEN DOTA.com API
+
+Sua chave
+4d5597da-0d08-4d1b-9c7a-3fe0b58f0278
+Para usar sua chave, adicione api_key=XXXX como um parâmetro de consulta à sua solicitação de API:
+
+https://api.opendota.com/api/matches/271145478?api_key=4d5597da-0d08-4d1b-9c7a-3fe0b58f0278
+O ciclo de cobrança atual termina em 31/05/2023. Nós vamos cobrar automaticamente o cartão Visa terminado em 9238.
+
+Precisa de suporte? Email api@opendota.com.
